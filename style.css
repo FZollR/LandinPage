@@ -97,6 +97,7 @@ img
     border-radius: 8px;
     background-color: #3882f6;
     border-width: 0.5px;
+    border-color: black;
     
 }
 
@@ -185,4 +186,79 @@ button
     align-items: flex-end;
     margin-left: auto;
  }
+
+ /* Last part */
+.lastpart {
+padding: 100px 0px;
+}
+ .rectangle {
+ display: flex;
+ flex-direction: row;
+ justify-content: space-between;
+ align-items: flex-start;
+ background-color: #3882f6;
+ margin: 0px 400px;
+ border-radius: 15px;
+ padding: 35px;
+padding-left: 60px;
+ }
+
+ .secondone
+ {
+     width: 125px;
+     height: 40px;
+     border-radius: 8px;
+     background-color: #3882f6;
+     border-color: #E5E7EB;
+     margin-right: 90px;
+     margin-top: 10px;
+    
+     
+ }
+ .call
+ {
+    font-size: 24px;
+    color: #E5E7EB;
+    font-family: sans-serif;
+    font-weight: bolder;
+    display: flex;
+    align-items: flex-end;
+    margin-left: auto;
+ }
+
+ .herobot
+ {
+    font-weight: 100;
+    font-family: sans-serif;
+    font-size: 16px;
+ }
+
+ .containersec
+ {
+    padding-left: 50px;
+    
+ }
+
+ /* Footer section */
+
+ .footer
+ {
+    background-color: #1f2937;
+    
+ }
+
+ .footertext
+ {
+    font-size: 24px;
+    color: #E5E7EB;
+    font-family: sans-serif;
+    font-weight: lighter;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    padding: 25px;
+ }
+
+
  
