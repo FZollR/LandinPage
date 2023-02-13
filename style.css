@@ -1,0 +1,188 @@
+body, html{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+body
+{
+    display: flex;
+    flex-direction: column;
+    flex: auto;
+     
+   
+}
+
+.header
+{
+    background-color: #1f2937;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+
+}
+
+ul
+{
+    display: flex;
+    gap: 15px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 300px;
+    
+}
+a
+{
+    text-decoration: none;
+    color: #e6e9e3 ;
+    font-size: 18px;
+    font-weight: lighter;
+   
+}
+.logotext {
+    font-size: 24px;
+    color: #f9faf8;
+    font-family: sans-serif;
+    padding-left: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.frontpart {
+display: flex;
+justify-content: center;
+gap: 100px;
+padding-bottom: 150px;
+}
+.awesome    
+{
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    gap: 0px;
+   
+}
+
+img
+{
+    height: 300px;
+    width: 500px;
+}
+
+.heromain {
+    font-size: 54px;
+    color: #f9faf8;
+    font-family: sans-serif;
+    font-weight: bolder;
+    margin:0;
+    padding: 0;
+}
+
+.herobot
+{
+    font-size: 18px;
+    color: #E5E7EB;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+
+.firstb
+{
+    max-width: 125px;
+    height: 40px;
+    border-radius: 8px;
+    background-color: #3882f6;
+    border-width: 0.5px;
+    
+}
+
+button
+{
+    font-size: 18px;
+    font-weight: bolder;
+    color: #E5E7EB;
+}
+.blueone
+{
+    background-color: #1f2937;
+    
+
+}
+
+.info 
+{
+    display: flex;
+    justify-content: center;
+}
+
+ /* second part */
+
+ .info 
+ {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    margin: 50px 0px;
+    font-family: sans-serif;
+}
+ .container
+ {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+    text-align: center;
+    padding-bottom: 100px;
+ }
+ 
+ .art {
+    max-width: 200px;
+ }
+ .size
+ {
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+ }
+ .text {
+    font-family: sans-serif;
+    margin-top: 8px;
+    color: rgb(82, 82, 82);
+    font-weight: 600;    
+ }
+
+/* qoute part*/
+ .middlebg
+ {
+    background-color: white;
+ }
+ .cont {
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 500px;
+    flex-direction: column;
+ }
+
+ .textike {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 50;
+    color: #1f2937;
+    font-family: sans-serif;
+
+ }
+ .textikesecond {
+    font-size: 24px;
+    color: #1f2937;
+    font-family: sans-serif;
+    font-weight: bolder;
+    display: flex;
+    align-items: flex-end;
+    margin-left: auto;
+ }
+ 
